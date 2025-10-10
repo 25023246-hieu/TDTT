@@ -1,1 +1,4 @@
-print ( int (1 / 2))
+#1
+n = int ( input ())
+for i in range (1 , n , 2) :
+    print (i, end = ' ')
